@@ -35,7 +35,7 @@ Implementamos, administramos y damos soporte a las plataformas sobre las que cor
       <p align="center">
         <a href="https://github.com/bluesmilecl/AiSdk.Net/actions/workflows/ci.yml"><img src="https://github.com/bluesmilecl/AiSdk.Net/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
         <a href="https://www.nuget.org/packages/AiSdk.Net"><img src="https://img.shields.io/nuget/vpre/AiSdk.Net?style=flat-square&logo=nuget&label=NuGet&color=004880" alt="NuGet"></a>
-        <a href="https://github.com/bluesmilecl/AiSdk.Net/stargazers"><img src="https://img.shields.io/github/stars/bluesmilecl/AiSdk.Net?style=flat-square&logo=github&color=a78bfa" alt="Estrellas"></a>
+        <a href="https://github.com/bluesmilecl/AiSdk.Net/blob/main/LICENSE"><img src="https://img.shields.io/badge/licencia-MIT-a78bfa?style=flat-square" alt="Licencia MIT"></a>
       </p>
       <p align="center">
         <a href="https://github.com/bluesmilecl/AiSdk.Net"><b>Repositorio</b></a> ·
@@ -47,8 +47,8 @@ Implementamos, administramos y damos soporte a las plataformas sobre las que cor
       <a href="https://github.com/bluesmilecl/framework-gob"><img src="assets/project-framework-gob.svg" width="100%" alt="framework-gob: framework del Gobierno de Chile en Tailwind CSS 4"></a>
       <p align="center">
         <a href="https://framework-gob.vercel.app"><img src="https://img.shields.io/badge/demo-en_vivo-006fb3?style=flat-square&logo=vercel&logoColor=white" alt="Demo en vivo"></a>
-        <a href="https://github.com/bluesmilecl/framework-gob/stargazers"><img src="https://img.shields.io/github/stars/bluesmilecl/framework-gob?style=flat-square&logo=github&color=fe6565" alt="Estrellas"></a>
-        <a href="https://github.com/bluesmilecl/framework-gob/commits/main"><img src="https://img.shields.io/github/last-commit/bluesmilecl/framework-gob?style=flat-square&color=a8b7c7&label=actualizado" alt="Último commit"></a>
+        <a href="https://github.com/bluesmilecl/framework-gob"><img src="https://img.shields.io/badge/Tailwind_CSS-4-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS 4"></a>
+        <a href="https://github.com/bluesmilecl/framework-gob/blob/main/LICENSE"><img src="https://img.shields.io/badge/licencia-MIT-fe6565?style=flat-square" alt="Licencia MIT"></a>
       </p>
       <p align="center">
         <a href="https://github.com/bluesmilecl/framework-gob"><b>Repositorio</b></a> ·
