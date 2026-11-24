@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="340" viewBox="0 0 640 340" role="img" aria-labelledby="t d">
+<title id="t">framework-gob</title>
+<desc id="d">Framework CSS del Gobierno de Chile sobre Tailwind CSS 4: 100 % de las clases oficiales, 99,52 % de paridad visual, 427 íconos y librería React.</desc>
+<defs>
+  <linearGradient id="bgg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a132d"/><stop offset="1" stop-color="#0d2350"/></linearGradient>
+  <linearGradient id="brg" x1="0" x2="1"><stop offset="0" stop-color="#006fb3"/><stop offset="1" stop-color="#fe6565"/></linearGradient>
+  <radialGradient id="glg"><stop offset="0" stop-color="#006fb3" stop-opacity=".35"/><stop offset="1" stop-color="#006fb3" stop-opacity="0"/></radialGradient>
+  <clipPath id="clg"><rect x="1" y="1" width="638" height="338" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#clg)">
+  <rect width="640" height="340" fill="url(#bgg)"/>
+  <circle class="glowb" cx="580" cy="40" r="230" fill="url(#glg)"/>
+</g>
+<rect x="1" y="1" width="638" height="338" rx="16" fill="none" stroke="#ffffff" stroke-opacity=".10"/>
+<rect class="comet" x="1" y="1" width="638" height="338" rx="16" fill="none" stroke="url(#brg)" stroke-width="2.5" stroke-linecap="round" pathLength="1000"/>
+<defs><linearGradient id="gb" x1="0" x2="1"><stop offset="0" stop-color="#006fb3"/><stop offset="1" stop-color="#3fa3e8"/></linearGradient>
+<linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".45"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<clipPath id="bars"><rect x="200" y="118" width="300" height="90"/></clipPath></defs>
+<style>
+  text{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,'DejaVu Sans',sans-serif}
+  .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace}
+  .title{font-size:30px;font-weight:800;fill:#ffffff;letter-spacing:-.3px}
+  .tagl{font-size:16px;font-weight:600}
+  .desc{font-size:15.5px;fill:#cbd5e1}
+  .chipt{font-size:12.5px;font-weight:700;fill:#ffffff}
+  .kpi{font-size:24px;font-weight:800;fill:#ffffff}
+  .kpil{font-size:12.5px;fill:#94a3b8;font-weight:600}
+  .comet{stroke-dasharray:110 890;animation:comet 7s linear infinite}
+  .glowb{animation:breath 6s ease-in-out infinite alternate}
+  @keyframes comet{from{stroke-dashoffset:1000}to{stroke-dashoffset:0}}
+  @keyframes breath{from{opacity:.55}to{opacity:1}}
+  .bl{font-size:14px;fill:#cbd5e1;font-weight:600}.bv{font-size:15px;fill:#ffffff;font-weight:800}.fill{transform-box:fill-box;transform-origin:left center}@keyframes grow{from{transform:scaleX(0)}}.star{transform-box:fill-box;transform-origin:center;animation:twinkle 3.5s ease-in-out infinite}@keyframes twinkle{0%,100%{transform:scale(1)}50%{transform:scale(.86)}}.sheen{animation:sheen 4.5s ease-in-out infinite}@keyframes sheen{0%{transform:translateX(-120px)}70%,100%{transform:translateX(340px)}}.f0{animation:grow 1.6s cubic-bezier(.2,.8,.2,1) 0.30s backwards}.f1{animation:grow 1.6s cubic-bezier(.2,.8,.2,1) 0.55s backwards}.f2{animation:grow 1.6s cubic-bezier(.2,.8,.2,1) 0.80s backwards}
+  @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<g clip-path="url(#clg)"><rect x="0" y="0" width="320.0" height="6" fill="#006fb3"/><rect x="320.0" y="0" width="320.0" height="6" fill="#fe6565"/></g>
+<rect x="32" y="30" width="58" height="58" rx="14" fill="#006fb3"/>
+<polygon class="star" points="61.0,43.0 65.1,54.3 77.2,54.7 67.7,62.2 71.0,73.8 61.0,67.0 51.0,73.8 54.3,62.2 44.8,54.7 56.9,54.3" fill="#ffffff"/>
+<text x="106" y="58" class="title">framework-gob</text>
+<text x="106" y="83" class="tagl" fill="#a8b7c7">Gobierno de Chile × Tailwind CSS 4</text>
+<rect x="534" y="34" width="76" height="24" rx="12" fill="#fe6565" fill-opacity=".22" stroke="#fe6565" stroke-opacity=".6"/><text x="572.0" y="50.5" text-anchor="middle" class="chipt">React 19</text><rect x="438" y="34" width="88" height="24" rx="12" fill="#38bdf8" fill-opacity=".22" stroke="#38bdf8" stroke-opacity=".6"/><text x="482.0" y="50.5" text-anchor="middle" class="chipt">Tailwind 4</text><rect x="380" y="34" width="50" height="24" rx="12" fill="#006fb3" fill-opacity=".22" stroke="#006fb3" stroke-opacity=".6"/><text x="405.0" y="50.5" text-anchor="middle" class="chipt">CSS</text>
+<text x="32" y="133" class="bl">Clases oficiales</text><rect x="200" y="123" width="300" height="10" rx="5" fill="#ffffff" fill-opacity=".08"/><rect class="fill f0" x="200" y="123" width="300.0" height="10" rx="5" fill="url(#gb)"/><text x="608" y="133" text-anchor="end" class="bv">100 %</text><text x="32" y="167" class="bl">Paridad visual</text><rect x="200" y="157" width="300" height="10" rx="5" fill="#ffffff" fill-opacity=".08"/><rect class="fill f1" x="200" y="157" width="298.6" height="10" rx="5" fill="url(#gb)"/><text x="608" y="167" text-anchor="end" class="bv">99,52 %</text><text x="32" y="201" class="bl">Alto contraste</text><rect x="200" y="191" width="300" height="10" rx="5" fill="#ffffff" fill-opacity=".08"/><rect class="fill f2" x="200" y="191" width="298.4" height="10" rx="5" fill="url(#gb)"/><text x="608" y="201" text-anchor="end" class="bv">99,47 %</text>
+<g clip-path="url(#bars)"><rect class="sheen" x="200" y="118" width="80" height="90" fill="url(#sh)"/></g>
+<path d="M32 236H608" stroke="#ffffff" stroke-opacity=".08"/>
+<text x="32" y="262" class="desc">Migración íntegra de gob.cl (Bootstrap 4 + jQuery): mismo diseño y</text>
+<text x="32" y="284" class="desc">mismas clases, con tokens de Tailwind y JavaScript sin dependencias.</text>
+<text x="32" y="318" class="kpil"><tspan fill="#ffffff" font-weight="800">427</tspan> íconos  ·  <tspan fill="#ffffff" font-weight="800">React</tspan> librería de componentes  ·  <tspan fill="#ffffff" font-weight="800">IA</tspan> skill para agentes</text>
+</svg>

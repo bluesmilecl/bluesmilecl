@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="150" viewBox="0 0 1280 150" role="img" aria-label="BlueSmile Technology">
+<defs>
+  <linearGradient id="w1" x1="0" x2="1"><stop offset="0" stop-color="#1f4bff" stop-opacity=".55"/><stop offset="1" stop-color="#0a9cc8" stop-opacity=".55"/></linearGradient>
+  <linearGradient id="w2" x1="0" x2="1"><stop offset="0" stop-color="#2fd49a" stop-opacity=".45"/><stop offset="1" stop-color="#1f4bff" stop-opacity=".45"/></linearGradient>
+  <linearGradient id="w3" x1="0" x2="1"><stop offset="0" stop-color="#0b1d40"/><stop offset="1" stop-color="#13295a"/></linearGradient>
+  <clipPath id="c"><rect width="1280" height="150" rx="18"/></clipPath>
+</defs>
+<style>
+  text{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,'DejaVu Sans',sans-serif}
+  .a{animation:mv 14s linear infinite}
+  .b{animation:mv 9s linear infinite reverse}
+  .c{animation:mv 20s linear infinite}
+  @keyframes mv{to{transform:translateX(-320px)}}
+  @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<g clip-path="url(#c)">
+  <path class="a" d="M0 58 q80.0 -18 160.0 0 t160.0 0 q80.0 -18 160.0 0 t160.0 0 q80.0 -18 160.0 0 t160.0 0 q80.0 -18 160.0 0 t160.0 0 q80.0 -18 160.0 0 t160.0 0 q80.0 -18 160.0 0 t160.0 0 q80.0 -18 160.0 0 t160.0 0 q80.0 -18 160.0 0 t160.0 0 q80.0 -18 160.0 0 t160.0 0 V150 H0Z" fill="url(#w1)"/>
+  <path class="b" d="M0 72 q80.0 -14 160.0 0 t160.0 0 q80.0 -14 160.0 0 t160.0 0 q80.0 -14 160.0 0 t160.0 0 q80.0 -14 160.0 0 t160.0 0 q80.0 -14 160.0 0 t160.0 0 q80.0 -14 160.0 0 t160.0 0 q80.0 -14 160.0 0 t160.0 0 q80.0 -14 160.0 0 t160.0 0 q80.0 -14 160.0 0 t160.0 0 V150 H0Z" fill="url(#w2)"/>
+  <path class="c" d="M0 86 q80.0 -10 160.0 0 t160.0 0 q80.0 -10 160.0 0 t160.0 0 q80.0 -10 160.0 0 t160.0 0 q80.0 -10 160.0 0 t160.0 0 q80.0 -10 160.0 0 t160.0 0 q80.0 -10 160.0 0 t160.0 0 q80.0 -10 160.0 0 t160.0 0 q80.0 -10 160.0 0 t160.0 0 q80.0 -10 160.0 0 t160.0 0 V150 H0Z" fill="url(#w3)"/>
+  <text x="640.0" y="126" text-anchor="middle" font-size="17" font-weight="700" fill="#ffffff" letter-spacing="1.5">BLUESMILE TECHNOLOGY</text>
+</g>
+</svg>
